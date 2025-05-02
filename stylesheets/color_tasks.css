@@ -55,6 +55,7 @@ table.list{
   border: 2px solid #eeeff3;
   border-spacing: 0;
   color: #6b7d94;
+  font-size: unset;
 }
 table.list th{ color: #f5f6f7;}
 body.controller-dmsf table.list th{ color: #6b7d94;}
