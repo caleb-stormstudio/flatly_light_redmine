@@ -13,6 +13,8 @@
 @import url(activity.css);
 @import url(projects.css);
 
+svg.icon-svg {display: none;}
+
 html{
   overflow-x: hidden;
 }
@@ -352,7 +354,6 @@ p.nodata{
   margin-top: -12px !important;
   top: 50% !important;
 }
-
 .icon-file.application-pdf {
   background-repeat: no-repeat;
   padding-left: 26px;
